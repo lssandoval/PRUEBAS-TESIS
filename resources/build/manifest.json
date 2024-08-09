@@ -1,0 +1,4 @@
+{
+    "resources/css/app.css": "build/css/app.12345.css",
+    "resources/js/app.js": "build/js/app.67890.js"
+}
